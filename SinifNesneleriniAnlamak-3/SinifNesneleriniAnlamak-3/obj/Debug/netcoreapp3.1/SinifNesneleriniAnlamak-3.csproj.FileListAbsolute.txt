@@ -1,0 +1,14 @@
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\bin\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.exe
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\bin\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.deps.json
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\bin\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.runtimeconfig.json
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\bin\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.runtimeconfig.dev.json
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\bin\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.dll
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\bin\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.pdb
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\obj\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.csproj.AssemblyReference.cache
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\obj\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\obj\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.AssemblyInfoInputs.cache
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\obj\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.AssemblyInfo.cs
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\obj\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.csproj.CoreCompileInputs.cache
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\obj\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.dll
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\obj\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.pdb
+C:\Users\Ecem\source\repos\SinifNesneleriniAnlamak-3\SinifNesneleriniAnlamak-3\obj\Debug\netcoreapp3.1\SinifNesneleriniAnlamak-3.genruntimeconfig.cache
