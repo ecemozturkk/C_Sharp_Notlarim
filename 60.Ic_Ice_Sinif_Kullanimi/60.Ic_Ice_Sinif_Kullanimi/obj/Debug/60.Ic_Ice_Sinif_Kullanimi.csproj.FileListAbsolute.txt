@@ -1,0 +1,7 @@
+C:\Users\Ecem\source\repos\60.Ic_Ice_Sinif_Kullanimi\60.Ic_Ice_Sinif_Kullanimi\bin\Debug\60.Ic_Ice_Sinif_Kullanimi.exe.config
+C:\Users\Ecem\source\repos\60.Ic_Ice_Sinif_Kullanimi\60.Ic_Ice_Sinif_Kullanimi\bin\Debug\60.Ic_Ice_Sinif_Kullanimi.exe
+C:\Users\Ecem\source\repos\60.Ic_Ice_Sinif_Kullanimi\60.Ic_Ice_Sinif_Kullanimi\bin\Debug\60.Ic_Ice_Sinif_Kullanimi.pdb
+C:\Users\Ecem\source\repos\60.Ic_Ice_Sinif_Kullanimi\60.Ic_Ice_Sinif_Kullanimi\obj\Debug\60.Ic_Ice_Sinif_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\Ecem\source\repos\60.Ic_Ice_Sinif_Kullanimi\60.Ic_Ice_Sinif_Kullanimi\obj\Debug\60.Ic_Ice_Sinif_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Ecem\source\repos\60.Ic_Ice_Sinif_Kullanimi\60.Ic_Ice_Sinif_Kullanimi\obj\Debug\60.Ic_Ice_Sinif_Kullanimi.exe
+C:\Users\Ecem\source\repos\60.Ic_Ice_Sinif_Kullanimi\60.Ic_Ice_Sinif_Kullanimi\obj\Debug\60.Ic_Ice_Sinif_Kullanimi.pdb
