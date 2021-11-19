@@ -1,0 +1,7 @@
+C:\Users\Ecem\source\repos\59.NameSpaceNedir\59.NameSpaceNedir\bin\Debug\59.NameSpaceNedir.exe.config
+C:\Users\Ecem\source\repos\59.NameSpaceNedir\59.NameSpaceNedir\bin\Debug\59.NameSpaceNedir.exe
+C:\Users\Ecem\source\repos\59.NameSpaceNedir\59.NameSpaceNedir\bin\Debug\59.NameSpaceNedir.pdb
+C:\Users\Ecem\source\repos\59.NameSpaceNedir\59.NameSpaceNedir\obj\Debug\59.NameSpaceNedir.csproj.AssemblyReference.cache
+C:\Users\Ecem\source\repos\59.NameSpaceNedir\59.NameSpaceNedir\obj\Debug\59.NameSpaceNedir.csproj.CoreCompileInputs.cache
+C:\Users\Ecem\source\repos\59.NameSpaceNedir\59.NameSpaceNedir\obj\Debug\59.NameSpaceNedir.exe
+C:\Users\Ecem\source\repos\59.NameSpaceNedir\59.NameSpaceNedir\obj\Debug\59.NameSpaceNedir.pdb
