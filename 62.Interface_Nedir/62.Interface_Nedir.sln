@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62.Interface_Nedir", "62.Interface_Nedir\62.Interface_Nedir.csproj", "{7AD253F1-2C68-453C-B7D4-1C8CF659449C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD253F1-2C68-453C-B7D4-1C8CF659449C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD253F1-2C68-453C-B7D4-1C8CF659449C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD253F1-2C68-453C-B7D4-1C8CF659449C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD253F1-2C68-453C-B7D4-1C8CF659449C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2AB1D33-B732-4ADA-810A-25DA7F9F87B4}
+	EndGlobalSection
+EndGlobal

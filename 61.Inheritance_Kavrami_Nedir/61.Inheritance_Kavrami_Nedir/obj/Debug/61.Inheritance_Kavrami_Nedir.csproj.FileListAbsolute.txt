@@ -1,0 +1,7 @@
+C:\Users\Ecem\source\repos\61.Inheritance_Kavrami_Nedir\61.Inheritance_Kavrami_Nedir\bin\Debug\61.Inheritance_Kavrami_Nedir.exe.config
+C:\Users\Ecem\source\repos\61.Inheritance_Kavrami_Nedir\61.Inheritance_Kavrami_Nedir\bin\Debug\61.Inheritance_Kavrami_Nedir.exe
+C:\Users\Ecem\source\repos\61.Inheritance_Kavrami_Nedir\61.Inheritance_Kavrami_Nedir\bin\Debug\61.Inheritance_Kavrami_Nedir.pdb
+C:\Users\Ecem\source\repos\61.Inheritance_Kavrami_Nedir\61.Inheritance_Kavrami_Nedir\obj\Debug\61.Inheritance_Kavrami_Nedir.csproj.AssemblyReference.cache
+C:\Users\Ecem\source\repos\61.Inheritance_Kavrami_Nedir\61.Inheritance_Kavrami_Nedir\obj\Debug\61.Inheritance_Kavrami_Nedir.csproj.CoreCompileInputs.cache
+C:\Users\Ecem\source\repos\61.Inheritance_Kavrami_Nedir\61.Inheritance_Kavrami_Nedir\obj\Debug\61.Inheritance_Kavrami_Nedir.exe
+C:\Users\Ecem\source\repos\61.Inheritance_Kavrami_Nedir\61.Inheritance_Kavrami_Nedir\obj\Debug\61.Inheritance_Kavrami_Nedir.pdb

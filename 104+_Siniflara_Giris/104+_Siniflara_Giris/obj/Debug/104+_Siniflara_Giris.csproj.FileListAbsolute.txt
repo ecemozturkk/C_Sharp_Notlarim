@@ -1,0 +1,7 @@
+C:\Users\Ecem\source\repos\104+_Siniflara_Giris\104+_Siniflara_Giris\bin\Debug\104+_Siniflara_Giris.exe.config
+C:\Users\Ecem\source\repos\104+_Siniflara_Giris\104+_Siniflara_Giris\bin\Debug\104+_Siniflara_Giris.exe
+C:\Users\Ecem\source\repos\104+_Siniflara_Giris\104+_Siniflara_Giris\bin\Debug\104+_Siniflara_Giris.pdb
+C:\Users\Ecem\source\repos\104+_Siniflara_Giris\104+_Siniflara_Giris\obj\Debug\104+_Siniflara_Giris.csproj.AssemblyReference.cache
+C:\Users\Ecem\source\repos\104+_Siniflara_Giris\104+_Siniflara_Giris\obj\Debug\104+_Siniflara_Giris.csproj.CoreCompileInputs.cache
+C:\Users\Ecem\source\repos\104+_Siniflara_Giris\104+_Siniflara_Giris\obj\Debug\104+_Siniflara_Giris.exe
+C:\Users\Ecem\source\repos\104+_Siniflara_Giris\104+_Siniflara_Giris\obj\Debug\104+_Siniflara_Giris.pdb
